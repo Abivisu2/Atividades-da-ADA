@@ -1,0 +1,1 @@
+console.log(idadePessoaDois === idadePessoaUm)
