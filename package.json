@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "atividades-da-ada",
+  "version": "1.0.0",
+  "description": "Repósitorio criado para armazenar as atividades feitas no curso de front-end em React da ADA.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
